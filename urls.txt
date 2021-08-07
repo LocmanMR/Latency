@@ -5,3 +5,4 @@ packagist.org
 symfony.com
 golang.org
 refactoring.guru
+alaldasd.ru
