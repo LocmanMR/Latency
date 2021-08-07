@@ -1,0 +1,7 @@
+google.com
+yandex.ru
+php.net
+packagist.org
+symfony.com
+golang.org
+refactoring.guru
