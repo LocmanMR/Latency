@@ -24,7 +24,7 @@ func main() {
 }
 
 func UrlLatency(timeout string)  {
-wg := &sync.WaitGroup{}
+	wg := &sync.WaitGroup{}
 
 	setHttpClientTimeout(timeout)
 
